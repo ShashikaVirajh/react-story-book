@@ -32,3 +32,17 @@ export const WithClickHandler: Story = {
     onClick: () => alert('Back button clicked')
   }
 };
+
+export const WithDarkBackground: Story = {
+  args: {
+    text: 'Im in dark background'
+  },
+  parameters: {
+    backgrounds: {
+      values: [
+        { name: 'black', value: 'black' },
+        { name: 'blue', value: 'blue' }
+      ]
+    }
+  }
+};
