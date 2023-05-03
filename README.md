@@ -15,7 +15,7 @@ yarn
 - To start the server after installation, run
 
 ```bash
-yarn start
+yarn storybook
 ```
 
 ## Tech Stack Used
