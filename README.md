@@ -28,4 +28,4 @@ MUI - as the UI library
 
 NOTE: If there are any issues when running the application, please contact me.
 Email: shashikasvka@gmail.com
-Whatsapp: +94 713980787## Motivation
+Whatsapp: +94 713980787
